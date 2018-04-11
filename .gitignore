@@ -48,3 +48,6 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
+
+# Idea folder?
+.idea*
